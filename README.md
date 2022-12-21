@@ -4,7 +4,8 @@ For a class project.
 
 Implemented 2 reinforcement learning algorithms (Q learning and SARSA learning) for a simple learning task. They are part of the same family of algorithms known as temporal difference learning. The general idea is as follows:
 
-Problem: An agent wants to achieve some goal in a hostile environment, and wants to incur the lowest possible penalty while doing so.
+Problem: 
+An agent wants to achieve some goal in a hostile environment, and wants to incur the lowest possible penalty while doing so.
 
 Solution:
 1. Discretize time into small, fixed duration blocks.
